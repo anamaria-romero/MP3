@@ -1,4 +1,3 @@
-
 const playList = [
     {
       title: 'La Ocasion',
@@ -10,7 +9,7 @@ const playList = [
       title: 'Mi fanatica',
       artist: 'De La Ghetto',
       img: 'assets/channels4_profile.jpg',
-      song: 'ruta de la cancion'
+      song: 'music/Mi Fanatica - De La Ghetto (youtube).mp3'
     },
     {
       title: 'Dices',
@@ -21,7 +20,7 @@ const playList = [
     {
       title: 'Sensacion Del Bloque',
       artist: 'De La Ghetto',
-      img: 'assets/photo-1663970206579-c157cba7edda.jfif',
+      img: 'assets/delaghettoent2.jpg',
       song: 'music/Sensacion Del Bloque - De La Ghetto (youtube).mp3'
     },
     {
@@ -30,4 +29,4 @@ const playList = [
       img: 'assets/de-la-ghetto-entrevista-espana-2023-5.jpg',
       song: 'music/De La Ghetto - La Groupie ft. Ñejo, Luigi 21+, Nicky Jam & Ñengo Flow [Official Audio] - De La Ghetto (youtube).mp3'
     },
-  ]
+];
